@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498611385208",
+    "firebase_url": "https://apk-maintenance-check-34e86-default-rtdb.firebaseio.com",
+    "project_id": "apk-maintenance-check-34e86",
+    "storage_bucket": "apk-maintenance-check-34e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498611385208:android:c41a937a5bf086940f4e8d",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498611385208-97230fekm0tj1tqi0dp2f54gqfo6ode3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCADvf4_X0vaHFw10V7QxcDJvMX0k3BVuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498611385208-97230fekm0tj1tqi0dp2f54gqfo6ode3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

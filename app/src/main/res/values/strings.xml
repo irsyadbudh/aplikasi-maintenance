@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SnapCheck</string>
+    <string name="firealarm">firealarm</string>
+    <string name="emergency">emergency</string>
+    <string name="gasroom">gasroom</string>
+    <string name="generator">generator</string>
+    <string name="hydrant">hydrant</string>
+    <string name="qr">qr</string>
+    <string name="spinner">spinner</string>
+    <string name="dateTime">dateTime</string>
+    <string name="add">add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exel" />
+
+</resources>
